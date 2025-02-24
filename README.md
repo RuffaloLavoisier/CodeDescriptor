@@ -8,4 +8,4 @@ This plugin for [JEB](https://www.pnfsoftware.com/jeb/) and supports interaction
 
 ## Usage
 
-See these [documents]().
+See these [documents](https://ruffalolavoisier.github.io/posts/how_to_use_codedescriptor/).
